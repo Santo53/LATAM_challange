@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Software Engineer (ML & LLMs) Challenge
 
 ## Overview
@@ -119,3 +120,6 @@ We are looking for a proper `CI/CD` implementation for this development.
 
 - Create a new folder called `.github` and copy the `workflows` folder that we provided inside it.
 - Complete both `ci.yml` and `cd.yml`(consider what you did in the previous parts).
+=======
+# LATAM_challange
+>>>>>>> Santiago/main
